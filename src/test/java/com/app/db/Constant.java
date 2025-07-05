@@ -4,6 +4,9 @@ public class Constant {
 	//testonne
 	//testtwo
 	//testthree
-	//fecth
+	//
+	//
+	//
+	//
 public static String maxvalue = "Select max(percentage) from world.countrylanguage;";
 }
